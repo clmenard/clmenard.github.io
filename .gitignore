@@ -1,8 +1,8 @@
-.DS_Store
-
-_site
+*.gem
+.bundle
 .sass-cache
 .jekyll-cache
-.jekyll-metadata
-
+_site
 Gemfile.lock
+unused
+bootstrap-reference.html
