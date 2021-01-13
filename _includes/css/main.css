@@ -139,6 +139,10 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
+    .navbar-fixed-top .navbar-logo {
+        max-height: 80px;
+    }
+
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
     }
