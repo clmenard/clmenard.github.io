@@ -41,7 +41,7 @@ timeline:
       - title: "Sogeti High Tech"
         year: "2015-2018"
         desc: "Développement d'applications pour l'aéronautique et l'aérospatiale. \nPlusieurs missions importantes :\n- Membre de la Holographic Academy pour la promotion de la Réalité Mixte pour des usages professionnels, Airbus\n- Création d'outils de contrôle qualité en Réalité Augmentée pour satellites, CNES\n- Développement du cockpit du futur, Airbus"
-        image: assets/img/timeline/airbus.jpg
+        image: assets/img/timeline/HoloAcademy.jpg
         alt: Sogeti High Tech
       - title: "Blob Enjeu"
         year: "2018-2019"
@@ -55,9 +55,9 @@ timeline:
         alt: Artefacto
         # you can enforce the aligment
         align: right
-      - title: "L'indépendance !"
-        year: "2020"
-        desc: "Début de mon activité de Freelance."
+      - title: "Début freelancing"
+        year: "2021-"
+        desc: "Lancement de mon activité de freelance, développement de vos projets et accompagnement sur les sujets 3D."
         image: assets/img/profil.jpg
         alt: Logo CM
     end: "Faites <br>partie de <br>l'aventure !"
