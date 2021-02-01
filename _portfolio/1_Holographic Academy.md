@@ -14,6 +14,8 @@ alt: Holographic Academy Example App
 Création de démonstrateurs en Réalité Mixte sur Hololens pour promouvoir la technologie dans tous les domaines présents chez Airbus.
 Outils de formation pour le personnel au sol, applications pour le contrôle qualité sur les chaines d'assemblage ou encore démonstrateurs marketings.
 
+Utilisation d'algorithmes mathématiques pour supperposer le contenu virtuel précisément sur la réalité.
+
 Création de sessions de formation auprès des équipes pour démocratiser l'usage des Hololens chez Airbus.
 
 {:.list-inline} 
