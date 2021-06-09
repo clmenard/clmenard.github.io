@@ -14,7 +14,7 @@ alt: Holofit
 Application de fitness connectée à une machine de cardio (vélo, rameurs, elliptiques) pour rendre les entrainements plus intéressants.
 Suivi des performances, défis, conseils et plaisir pour vos sessions de cardio.
 
-https://www.holodia.com/
+<a href="https://www.holodia.com/">https://www.holodia.com/</a>
 
 {:.list-inline} 
 - Date: 2021
