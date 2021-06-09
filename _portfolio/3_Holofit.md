@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Holofit
 subtitle: Fitness connecté en VR
-image: assets/img/portfolio/holofit.jpg
+image: assets/img/portfolio/holofit_big.jpg
 alt: Holofit
 
 ---
